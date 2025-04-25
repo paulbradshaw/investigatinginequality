@@ -71,6 +71,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [English Indices of Deprivation (IMD)](https://www.gov.uk/government/collections/english-indices-of-deprivation)
 - [Welsh Index of Multiple Deprivation](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 - [Scottish Index of Multiple Deprivation](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/)
+- [Urban rural classification](https://www.ons.gov.uk/methodology/geography/geographicalproducts/ruralurbanclassifications/2021ruralurbanclassification)
 - [Northern Ireland Multiple Deprivation Measure](https://www.nisra.gov.uk/statistics/deprivation/northern-ireland-multiple-deprivation-measure-2017-nimdm2017)
 - [Census Data](https://www.ons.gov.uk/census)
 - [Patients Registered at a GP Practice by LSOA](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2024#resources)
