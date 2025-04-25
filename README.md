@@ -1,10 +1,10 @@
 # Investigating inequality
 
-Material for a workshop on investigating inequality using health data. See [slides here](https://github.com/paulbradshaw/investigatinginequality/blob/main/Investigating%20inequalities%20in%20health%20MJA.pdf)
+Material for a workshop on investigating inequality using health data. 
 
-[Workshop on using XLOOKUP here](https://github.com/paulbradshaw/investigatinginequality/blob/main/docs/xlookup.md)
-
-[Download workshop dataset from here](https://docs.google.com/spreadsheets/d/1baHYv6EzQ4_DscuMp6BtJKEbpenjceoY/edit?gid=1464088686#gid=1464088686)
+* [Slides here](https://github.com/paulbradshaw/investigatinginequality/blob/main/Investigating%20inequalities%20in%20health%20MJA.pdf)
+* [Workshop on using XLOOKUP here](https://github.com/paulbradshaw/investigatinginequality/blob/main/docs/xlookup.md)
+* [Download workshop dataset from here](https://docs.google.com/spreadsheets/d/1baHYv6EzQ4_DscuMp6BtJKEbpenjceoY/edit?gid=1464088686#gid=1464088686)
 
 Key points: 
 
