@@ -1,8 +1,15 @@
 # Investigating inequality
 
-Material for a workshop on investigating inequality using health data
+Material for a workshop on investigating inequality using health data. See [slides here](https://github.com/paulbradshaw/investigatinginequality/blob/main/Investigating%20inequalities%20in%20health%20MJA.pdf)
 
-## Generating ideas
+Key points: 
+
+1. Consider different angles (don’t just look for relationships)
+2. Combine data to identify potential inequalities
+3. Identify the risks (and manage them)
+
+
+## 1. Consider different angles
 
 The [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/) provides a framework to generate ideas for stories around inequality:
 
@@ -18,7 +25,7 @@ News story ideas will reveal a primary facet of an issue, but may add a secondar
 
 Feature story ideas will explore an issue through more than two facets, but can use the same angle twice (e.g. these are the worst areas for one aspect, these are the worst for another, and these are the best).
 
-## Examples: news
+### Examples: news
 
 - Variation: [Black men in England more likely to be diagnosed with late-stage prostate cancer](https://www.theguardian.com/society/2025/jan/09/black-men-in-england-more-likely-to-be-diagnosed-with-late-stage-prostate-cancer-analysis-shows) - The Guardian
 - Variation: [Positive assessment rates for autism vary widely between parts of England](https://www.theguardian.com/society/2024/oct/27/positive-assessment-rates-for-autism-vary-widely-between-parts-of-england) - The Guardian
@@ -32,7 +39,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - Scale: [Excess deaths for females 38% higher than males during July heat wave](https://medium.com/@julianamani04/excess-deaths-for-females-38-higher-than-males-during-july-heat-wave-12ae1291042e) - Medium
 - No data: [Government refuses to release gender abortion figures](http://www.telegraph.co.uk/health/healthnews/9916953/Government-refuses-to-release-gender-abortion-figures.html) - The Telegraph
 
-## Examples: features (all exploratory)
+### Examples: features (all exploratory)
 
 - [The housing pandemic: four graphs showing the link between COVID-19 deaths and the housing crisis](https://www.insidehousing.co.uk/insight/the-housing-pandemic-four-graphs-showing-the-link-between-covid-19-deaths-and-the-housing-crisis-66562) - Inside Housing
 - [Are migrants causing the A&E crisis? (Factcheck)](https://www.channel4.com/news/factcheck/high-immigration-nhs-crisis) - Channel 4
@@ -45,7 +52,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [Is it easier to get a job if you're Adam or Mohamed?](https://www.bbc.co.uk/news/uk-england-london-38751307) - BBC
 - [Racial inequality is still a massive problem in Greater Manchester - and these are the facts that prove it](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/racial-inequality-manchester-hard-facts-12730531) - Manchester Evening News
 
-## Useful Datasets
+### Useful Datasets
 
 - [Gov.uk Research & Stats (Health and Social Care)](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&level_one_taxon=8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8&order=updated-newest)
 - [OpenPrescribing - Prescription Data](https://openprescribing.net/)
@@ -65,7 +72,11 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [GP Patient Survey](https://gp-patient.co.uk/surveysandreports)
 - [Ethnicity Coding in English Health Service Datasets](https://www.nhsrho.org/research/ethnicity-coding-in-english-health-service-datasets/)
 
-## Considerations and risks
+## 2. Combine data to identify potential inequalities
+
+[See the workshop on using XLOOKUP](https://github.com/paulbradshaw/investigatinginequality/blob/main/docs/xlookup.md)
+
+## 3. Identify the risks (and manage them)
 
 - Data tells you what is happening, but not why - ask an expert
 - Correlation vs causation: other factors, e.g. housing, social class, age profile
