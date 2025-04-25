@@ -42,6 +42,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - Variation: [Menopause drugs spend varies widely across England](https://www.theguardian.com/world/2024/oct/27/positive-assessment-rates-for-autism-vary-widely-between-parts-of-england) - The Guardian
 - Scale: [Excess deaths for females 38% higher than males during July heat wave](https://medium.com/@julianamani04/excess-deaths-for-females-38-higher-than-males-during-july-heat-wave-12ae1291042e) - Medium
 - No data: [Government refuses to release gender abortion figures](http://www.telegraph.co.uk/health/healthnews/9916953/Government-refuses-to-release-gender-abortion-figures.html) - The Telegraph
+- [Tobi Thomas, The Guardian](https://www.theguardian.com/profile/tobi-thomas)
 
 ### Examples: features (all exploratory)
 
@@ -55,6 +56,8 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [The Black American Amputation Epidemic](https://features.propublica.org/diabetes-amputations/black-american-amputation-epidemic/) - ProPublica
 - [Is it easier to get a job if you're Adam or Mohamed?](https://www.bbc.co.uk/news/uk-england-london-38751307) - BBC
 - [Racial inequality is still a massive problem in Greater Manchester - and these are the facts that prove it](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/racial-inequality-manchester-hard-facts-12730531) - Manchester Evening News
+- [Health Foundation, Evidence Hub](https://www.health.org.uk/evidence-hub)
+
 
 ### Useful Datasets
 
