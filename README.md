@@ -19,7 +19,7 @@ The [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/
 * Reveal that **variation** exists
 * Reveal a **relationship** between outcomes and another measure (warning: correlation is not causation - see risks)
 * Reveal a **lack of data**, or **concerns over data quality**, or **make data newly accessible**
-* **Explore** an issues through a number of different angles, e.g. the scale of the issue, how much it's changed, where it's worst, etc.
+* **Explore** an issue or question through a number of different angles, e.g. the scale of the issue, how much it's changed, where it's worst, etc. (or create a tool for audiences to explore). Charticles, listicles, explainers, investigations and multi-interview features all come under this category.
 
 News story ideas will reveal a primary facet of an issue, but may add a secondary facet later in the story (e.g. the headline is about the scale of the issue, but later you detail how much it's changed). Adding a third facet risks losing the focus, and you may be better using a feature format to do that.
 
