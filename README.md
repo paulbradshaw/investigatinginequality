@@ -32,7 +32,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - Scale: [Excess deaths for females 38% higher than males during July heat wave](https://medium.com/@julianamani04/excess-deaths-for-females-38-higher-than-males-during-july-heat-wave-12ae1291042e) - Medium
 - No data: [Government refuses to release gender abortion figures](http://www.telegraph.co.uk/health/healthnews/9916953/Government-refuses-to-release-gender-abortion-figures.html) - The Telegraph
 
-# Examples: features (all exploratory)
+## Examples: features (all exploratory)
 
 - [The housing pandemic: four graphs showing the link between COVID-19 deaths and the housing crisis](https://www.insidehousing.co.uk/insight/the-housing-pandemic-four-graphs-showing-the-link-between-covid-19-deaths-and-the-housing-crisis-66562) - Inside Housing
 - [Are migrants causing the A&E crisis? (Factcheck)](https://www.channel4.com/news/factcheck/high-immigration-nhs-crisis) - Channel 4
@@ -45,7 +45,7 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [Is it easier to get a job if you're Adam or Mohamed?](https://www.bbc.co.uk/news/uk-england-london-38751307) - BBC
 - [Racial inequality is still a massive problem in Greater Manchester - and these are the facts that prove it](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/racial-inequality-manchester-hard-facts-12730531) - Manchester Evening News
 
-# Useful Datasets
+## Useful Datasets
 
 - [Gov.uk Research & Stats (Health and Social Care)](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&level_one_taxon=8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8&order=updated-newest)
 - [OpenPrescribing - Prescription Data](https://openprescribing.net/)
@@ -64,4 +64,19 @@ Feature story ideas will explore an issue through more than two facets, but can 
 - [GP Practice Workforce Data](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub/workforce)
 - [GP Patient Survey](https://gp-patient.co.uk/surveysandreports)
 - [Ethnicity Coding in English Health Service Datasets](https://www.nhsrho.org/research/ethnicity-coding-in-english-health-service-datasets/)
+
+## Considerations and risks
+
+- Data tells you what is happening, but not why - ask an expert
+- Correlation vs causation: other factors, e.g. housing, social class, age profile
+- Watch out for [p-hacking](https://royalsocietypublishing.org/doi/10.1098/rsos.220346) (aka [data dredging](https://en.wikipedia.org/wiki/Data_dredging))
+- Smaller groups are underrepresented in the data = more variation
+- [Communicating the quality of ethnicity data](https://analysisfunction.civilservice.gov.uk/blog/communicating-the-quality-of-ethnicity-data/)
+- Tendency to group non-white groups into single ‘BME’
+- Communicating uncertainty (e.g. margins of error)
+- Data doesn’t show the lived experience - case studies needed
+- [Deficit-based language](https://bcmj.org/editorials/away-deficit-based-language). See: [Data Feminism by D'Ignazio and Klein](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?from=21128&to=21556) and [Small multiples: Presenting data for a targeted universalist approach](http://blog.pietablakely.com/presenting-data-for-a-targeted-universalist-approach)
+
+
+
 
